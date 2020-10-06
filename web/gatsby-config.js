@@ -19,7 +19,7 @@ module.exports = {
     title: `shakuff`,
     description: `Gatsby + Sanity + Shopify Repo`,
     siteUrl: `https://shop.shakuff.com`,
-    author: `iamkevingreen`,
+    author: `mjolliffe`,
     password: true
   },
   plugins: [
