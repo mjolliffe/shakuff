@@ -16,9 +16,9 @@ module.exports = {
     )
   },
   siteMetadata: {
-    title: `Midway`,
+    title: `shakuff`,
     description: `Gatsby + Sanity + Shopify Repo`,
-    siteUrl: `https://midway.ctrlaltdel.world`,
+    siteUrl: `https://shop.shakuff.com`,
     author: `iamkevingreen`,
     password: true
   },
@@ -107,7 +107,7 @@ module.exports = {
         ]
       }
     },
-  
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
